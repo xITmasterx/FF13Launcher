@@ -2,7 +2,16 @@
 
 # [FINAL FANTASY XIII Launcher](https://www.si13n7.com/Downloads/Gaming%20Tools/Final%20Fantasy%2013%20-%20Full%20Launcher/)
 
+***
+
+<b>Note:</b> This is a fork of the original Si13n7's FF13 launcher. I'm going to add an option to add bugfixes when launching the game, along with some other quality of life improvements. This is still under construction though, so it's technically still the same thing. I'll update once the fixes are up. 
+
+<b>Also, the text below is from the original post, this is not my work, all credit goes to Si13n7 and this program will continue to be open-source.</b>
+
+***
+
 Please visit [www.si13n7.com](https://www.si13n7.com/Downloads/Gaming%20Tools/Final%20Fantasy%2013%20-%20Full%20Launcher/) for more informations!
+
 ***
 <h1 align="center"><sub><img  src="https://github.com/Si13n7/FF13Launcher/raw/master/.images/PREVIEW01.png"></sub></h1>
 
